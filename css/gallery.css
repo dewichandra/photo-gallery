@@ -1,0 +1,8 @@
+ul.gallery{
+	list-style: none;
+
+}
+ul.gallery li{
+	display: inline-block;
+	
+}
